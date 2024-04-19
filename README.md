@@ -13,3 +13,6 @@
 #AIML-2024
 [LAB-05](https://github.com/Neerajchopari/Neerajchopari-AIML_2024.git)
 
+#AIML-2024
+[LAB-06](https://github.com/Neerajchopari/Neerajchopari-AIML_2024.git)
+
